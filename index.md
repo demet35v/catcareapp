@@ -1,6 +1,6 @@
-# Project Cat — Legal
+# Happy Cat App — Legal
 
-Legal documents for the **Project Cat** mobile app, published by **Ishtar Trade OÜ**
+Legal documents for the **Happy Cat App** mobile app, published by **Ishtar Trade OÜ**
 (registry code 17042422, Estonia).
 
 - [Terms of Use](./terms-of-use.md)

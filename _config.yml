@@ -1,5 +1,5 @@
-# GitHub Pages (Jekyll) config for the Project Cat legal site.
+# GitHub Pages (Jekyll) config for the Happy Cat App legal site.
 # Renders the Markdown files in this folder into a simple public website.
-title: Project Cat — Legal
-description: Terms of Use and Privacy Policy for the Project Cat app.
+title: Happy Cat App — Legal
+description: Terms of Use and Privacy Policy for the Happy Cat App app.
 theme: jekyll-theme-cayman

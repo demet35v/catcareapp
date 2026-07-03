@@ -1,10 +1,10 @@
-# Privacy Policy — Project Cat
+# Privacy Policy — Happy Cat App
 
 **Effective date:** 1 August 2027
 **Version:** 1.0
 
 This Privacy Policy explains how we collect, use and protect your personal data when you
-use the "Project Cat" mobile application (the "App"), in accordance with the EU General Data
+use the "Happy Cat App" mobile application (the "App"), in accordance with the EU General Data
 Protection Regulation (GDPR) and Estonian data-protection law. It should be read together
 with our [Terms of Use](./terms-of-use.md).
 

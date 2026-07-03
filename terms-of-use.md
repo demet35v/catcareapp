@@ -1,9 +1,9 @@
-# Terms of Use — Project Cat
+# Terms of Use — Happy Cat App
 
 **Effective date:** 1 August 2027
 **Version:** 1.0
 
-These Terms of Use ("Terms") govern your access to and use of the "Project Cat" mobile
+These Terms of Use ("Terms") govern your access to and use of the "Happy Cat App" mobile
 application and related services (the "App"). Please read them carefully. By downloading,
 accessing or using the App, you confirm that you have read, understood and agree to be
 bound by these Terms and by our [Privacy Policy](./privacy-policy.md), which is
